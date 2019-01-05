@@ -11,6 +11,7 @@
         <module>spring-eureka</module>
         <module>provider</module>
         <module>consumer</module>
+        <module>feign-consumer</module>
     </modules>
 
 
